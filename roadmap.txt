@@ -1,3 +1,9 @@
+ NOTE: what does the symbols in title mean?
+
+ (L)- i am learning, learning module
+ anything else- i am creating, creative module
+
+ 
  Working on projects is a great way to improve your data structures and algorithms skills in Python. Here are a few project ideas that i can tackle to strengthen my understanding:
 
 1. Algorithm Visualizer:
@@ -34,3 +40,4 @@ Note to self:
 Remember to focus not only on solving problems but also on optimizing your solutions. Analyze time and space complexity, and explore different approaches to the same problem. Additionally, platforms like LeetCode, HackerRank, and CodeSignal offer a variety of algorithmic challenges that you can solve to enhance your skills.
 
 Note to others who are reading this: I used chatgpt for creating my roadmap!
+
